@@ -1,14 +1,17 @@
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, ɪ ᴀᴍ ᴀ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ + ᴍᴏᴠɪᴇ sᴇᴀʀᴄʜ + ᴍᴀɴᴜᴀʟ ꜰɪʟᴛᴇʀ ʙᴏᴛ. ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ʏᴏᴜ ᴄᴀɴ sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇs ᴠɪᴀ ɪɴʟɪɴᴇ. ɪ ᴄᴀɴ ᴀʟsᴏ ᴀᴅᴅ ꜰɪʟᴛᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ 🥂</b>"""
+    START_TXT = """<b>ʜᴇʟʟᴏ {},
+ᴍʏ ɴᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, ɪ ᴀᴍ ᴀ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ + ᴍᴏᴠɪᴇ sᴇᴀʀᴄʜ + ᴍᴀɴᴜᴀʟ ꜰɪʟᴛᴇʀ ʙᴏᴛ. ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ʏᴏᴜ ᴄᴀɴ sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇs ᴠɪᴀ ɪɴʟɪɴᴇ. ɪ ᴄᴀɴ ᴀʟsᴏ ᴀᴅᴅ ꜰɪʟᴛᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ 🥂</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/TamilMovies_Workshop> CANDY </a></b>
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/+pLcNhQu5LwFjMTk1> CLICK HERE </a></b>
-<b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
+<b>‣ ᴍʏ ɴᴀᴍᴇ  : <a href=https://t.me/TamilMovies_Workshop> ᴄᴀɴᴅʏ  </a></b>
+<b>‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ :<a href=https://t.me/TW_Botzs> 𝚃𝙼𝚆_𝙱𝙾𝚃𝚉𝚂 </a></b>
+<b>‣ ʟᴀɴɢᴜᴀɢᴇ  :<a href=https://www.python.org/> ᴘʏᴛʜᴏɴ  </a></b>
+<b>‣ ᴅᴀᴛᴀ ʙᴀsᴇ :<a href=https://www.mongodb.com/> ᴍᴏɴɢᴏ ᴅʙ </a></b>
+<b>‣ ʜᴏsᴛᴇᴅ ᴏɴ :<a href=http://heroku.com/> ʜᴇʀᴏᴋᴜ </a></b>
+<b>‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ3.1.62 [sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT = """
 <b>Tʜɪꜱ Bᴏᴛ Iꜱ NOT Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
