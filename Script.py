@@ -5,7 +5,7 @@ class script(object):
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
+    ABOUT_TXT = """<b>‣ ᴍʏ ɴᴀᴍᴇ : {}</b>
 <b>‣ ᴍʏ ɴᴀᴍᴇ  : <a href=https://t.me/TamilMovies_Workshop> ᴄᴀɴᴅʏ  </a></b>
 <b>‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ :<a href=https://t.me/TW_Botzs> 𝚃𝙼𝚆_𝙱𝙾𝚃𝚉𝚂 </a></b>
 <b>‣ ʟᴀɴɢᴜᴀɢᴇ  :<a href=https://www.python.org/> ᴘʏᴛʜᴏɴ  </a></b>
