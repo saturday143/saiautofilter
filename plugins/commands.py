@@ -26,7 +26,7 @@ async def start(client, message):
                     InlineKeyboardButton('〆 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ 〆', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('✪ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="https://t.me/martinbot12"),
-                    InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url="https://t.me/rqsturmovie")
+                    InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url="https://t.me/TamilMovies_Workshop")
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
@@ -46,7 +46,7 @@ async def start(client, message):
                     InlineKeyboardButton('〆 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ 〆', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('💰 Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
-                    InlineKeyboardButton('🎯 Mᴏᴠɪᴇ Gʀᴏᴜᴘ 🎯', url="https://t.me/rqsturmovie")
+                    InlineKeyboardButton('🎯 Mᴏᴠɪᴇ Gʀᴏᴜᴘ 🎯', url="https://t.me/TamilMovies_Workshop")
                 ],[
                     InlineKeyboardButton('🎭 Hᴇʟᴘ 🎭', callback_data='help'),
                     InlineKeyboardButton('♻️ Aʙᴏᴜᴛ ♻️', callback_data='about')
@@ -97,7 +97,7 @@ async def start(client, message):
                     InlineKeyboardButton('〆 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ 〆', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('💰 Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
-                    InlineKeyboardButton('🎯 Mᴏᴠɪᴇ Gʀᴏᴜᴘ 🎯', url="https://t.me/rqsturmovie")
+                    InlineKeyboardButton('🎯 Mᴏᴠɪᴇ Gʀᴏᴜᴘ 🎯', url="https://t.me/TamilMovies_Workshop")
                 ],[
                     InlineKeyboardButton('🎭 Hᴇʟᴘ 🎭', callback_data='help'),
                     InlineKeyboardButton('♻️ Aʙᴏᴜᴛ ♻️', callback_data='about')
